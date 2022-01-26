@@ -1,5 +1,7 @@
 ![zhangsanplus](https://github-readme-stats.vercel.app/api/?username=zhangsanplus&theme=github_dark&hide_border=true&locale=en&show_owner=true&hide_title=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangsanplus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **zhangsanplus/zhangsanplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
