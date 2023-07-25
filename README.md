@@ -1,6 +1,14 @@
-| <img align="center" src="https://github-readme-stats.vercel.app/api/?username=zhangsanplus&theme=github_dark&hide_border=true&locale=en&show_owner=true&hide_title=true" alt="zhangsanplus" /> | 
-| ------------- |
+# Hi 👋, I'm Zhangsanplus
 
-**总访问量**
+A passionate frontend developer !
+
+![Zhangsanplus's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangsanplus&show_icons=true&theme=radical)
+
+**visitors count**
 
 ![](https://profile-counter.glitch.me/zhangsanplus/count.svg)
+
+**Connect with me**
+
+- [juejin](https://juejin.cn/user/1427619894278167)
+- [blog](https://www.yoogle.top)
