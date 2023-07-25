@@ -1,2 +1,2 @@
-| <img align="center" src="https://github-readme-stats.vercel.app/api/?username=zhangsanplus&theme=github_dark&hide_border=true&locale=en&show_owner=true&hide_title=true" alt="zhangsanplus" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangsanplus&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api/?username=zhangsanplus&theme=github_dark&hide_border=true&locale=en&show_owner=true&hide_title=true" alt="zhangsanplus" /> | https://profile-counter.glitch.me/zhangsanplus/count.svg |
 | ------------- | ------------- |
